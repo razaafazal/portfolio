@@ -2,7 +2,7 @@
 
 # Portfolio Template
 
-To View the live site click ([https://portfolio-template.surge.sh](https://aboutmef.000webhostapp.com/index.html)https://aboutmef.000webhostapp.com/index.html)
+To View the live site click ([https://portfolio-template.surge.sh](https://aboutmef.000webhostapp.com/index.html)
 
 ## Features
 
