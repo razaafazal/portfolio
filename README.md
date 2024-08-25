@@ -2,7 +2,7 @@
 
 # Portfolio Template
 
-To View the live site click ([https://aboutmef.000webhostapp.com/index.html]
+To View the live site click ([https://razaafazal.github.io/portfolio/]
 
 ## Features
 
