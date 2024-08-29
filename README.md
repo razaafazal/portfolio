@@ -1,5 +1,3 @@
-# personal-portfolio-aboutme
-
 # Portfolio Template
 
 To View the live site click ([https://razaafazal.github.io/portfolio/]
